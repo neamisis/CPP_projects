@@ -1,9 +1,6 @@
 #include <iostream>
 #include <string>
 
-// The Wikipedia game program in c++, like putting stuff in a graph and stuff
-
-
 void numOfVowels(std::string str) {
 	int num_vowels = 0;
 
@@ -36,7 +33,6 @@ int main() {
 		else if (user_input == condition) {
 			break;
 		}
-
 	}
 }
 
