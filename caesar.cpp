@@ -1,6 +1,9 @@
 #include <iostream>
 #include <string>
 
+//THIS IS BROKEN AF FAM 
+//I HAVEN'T FIXED THE BUGS YET
+
 char smol_alphabets[26] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
 
 int Index(char arr[], char a) {
